@@ -39,10 +39,7 @@
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/sec-activity-light.svg"><img src="assets/sec-activity.svg" alt="04 — Activity" width="100%"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clackes/clackes/output/snake-dark.svg">
-  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/clackes/clackes/output/snake-light.svg" width="100%">
-</picture>
+<picture><img src="assets/activity.svg" alt="Contributions in the last 12 months, week by week" width="100%"></picture>
 
 <br><br>
 
