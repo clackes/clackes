@@ -15,10 +15,10 @@
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/sec-work-light.svg"><img src="assets/sec-work.svg" alt="01 — Selected work" width="100%"></picture>
 
-<picture><img src="assets/tsukumo.svg" alt="Tsukumo — macOS toolkit for Apple Silicon" width="49.4%"></picture>
-<picture><img src="assets/falconia.svg" alt="Falconia — self-hosted home for AI agent artifacts" width="49.4%"></picture>
-<picture><img src="assets/reiatsu.svg" alt="Reiatsu Relay — Claude plan usage on a Garmin watch face" width="49.4%"></picture>
-<picture><img src="assets/bin.svg" alt="Bin — swipe to keep or delete photos, offline" width="49.4%"></picture>
+<picture><img src="assets/tsukumo.svg?v=2" alt="Tsukumo — macOS toolkit for Apple Silicon" width="49.4%"></picture>
+<picture><img src="assets/falconia.svg?v=2" alt="Falconia — self-hosted home for AI agent artifacts" width="49.4%"></picture>
+<picture><img src="assets/reiatsu.svg?v=2" alt="Reiatsu Relay — Claude plan usage on a Garmin watch face" width="49.4%"></picture>
+<picture><img src="assets/bin.svg?v=2" alt="Bin — swipe to keep or delete photos, offline" width="49.4%"></picture>
 
 <br><br>
 
