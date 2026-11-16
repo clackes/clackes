@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="clackes — Alberto Vergani. Apps, bots, watch faces and AI tooling. Open to work." width="100%">
+<picture><img src="assets/header.svg" alt="clackes — Alberto Vergani. Apps, bots, watch faces and AI tooling. Open to work." width="100%"></picture>
 
 <a href="https://albertovergani.com/"><img src="assets/chip-site.svg" alt="albertovergani.com" height="40"></a>&nbsp;
 <a href="https://www.linkedin.com/in/alberto-vergani/"><img src="assets/chip-linkedin.svg" alt="LinkedIn" height="40"></a>
 
 <br>
 
-<img src="assets/intro.svg" alt="Most of it started as my own problem. Student at SUPSI: Discord bots, scrapers and monitors, Garmin watch faces, web apps, a macOS toolkit and MCP servers." width="100%">
+<picture><img src="assets/intro.svg" alt="Most of it started as my own problem. Student at SUPSI: Discord bots, scrapers and monitors, Garmin watch faces, web apps, a macOS toolkit and MCP servers." width="100%"></picture>
 
-<img src="assets/now.svg" alt="Now: shipping Tsukumo and Falconia, building AI tooling, studying at SUPSI, open to freelance and internships." width="100%">
+<picture><img src="assets/now.svg" alt="Now: shipping Tsukumo and Falconia, building AI tooling, studying at SUPSI, open to freelance and internships." width="100%"></picture>
 
 <br><br>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/sec-work-light.svg"><img src="assets/sec-work.svg" alt="01 — Selected work" width="100%"></picture>
 
-<a href="https://github.com/clackes/Tsukumo"><img src="assets/tsukumo.svg" alt="Tsukumo — macOS toolkit for Apple Silicon" width="49.4%"></a>
-<a href="https://github.com/clackes/falconia"><img src="assets/falconia.svg" alt="Falconia — self-hosted home for AI agent artifacts" width="49.4%"></a>
-<a href="https://github.com/clackes/reiatsu-relay"><img src="assets/reiatsu.svg" alt="Reiatsu Relay — Claude plan usage on a Garmin watch face" width="49.4%"></a>
-<a href="https://github.com/clackes/bin-app"><img src="assets/bin.svg" alt="Bin — swipe to keep or delete photos, offline" width="49.4%"></a>
+<picture><img src="assets/tsukumo.svg" alt="Tsukumo — macOS toolkit for Apple Silicon" width="49.4%"></picture>
+<picture><img src="assets/falconia.svg" alt="Falconia — self-hosted home for AI agent artifacts" width="49.4%"></picture>
+<picture><img src="assets/reiatsu.svg" alt="Reiatsu Relay — Claude plan usage on a Garmin watch face" width="49.4%"></picture>
+<picture><img src="assets/bin.svg" alt="Bin — swipe to keep or delete photos, offline" width="49.4%"></picture>
 
 <br><br>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/sec-private-light.svg"><img src="assets/sec-private.svg" alt="02 — Under the hood" width="100%"></picture>
 
-<img src="assets/priv-ai.svg" alt="AI and agents: MCP servers, LLM APIs, sandboxing" width="49.4%">
-<img src="assets/priv-bots.svg" alt="Automation and bots: Discord bots, headless scraping, notifications" width="49.4%">
-<img src="assets/priv-health.svg" alt="Wearables and data: Connect IQ, sensor data, speech" width="49.4%">
-<img src="assets/priv-apps.svg" alt="Apps and infrastructure: full-stack web, data, self-hosting" width="49.4%">
+<picture><img src="assets/priv-ai.svg" alt="AI and agents: MCP servers, LLM APIs, sandboxing" width="49.4%"></picture>
+<picture><img src="assets/priv-bots.svg" alt="Automation and bots: Discord bots, headless scraping, notifications" width="49.4%"></picture>
+<picture><img src="assets/priv-health.svg" alt="Wearables and data: Connect IQ, sensor data, speech" width="49.4%"></picture>
+<picture><img src="assets/priv-apps.svg" alt="Apps and infrastructure: full-stack web, data, self-hosting" width="49.4%"></picture>
 
 <br><br>
 
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<img src="assets/closing.svg" alt="Have something worth building? Write me. Freelance work, internships and side projects." width="100%">
+<picture><img src="assets/closing.svg" alt="Have something worth building? Write me. Freelance work, internships and side projects." width="100%"></picture>
 
 </div>
 

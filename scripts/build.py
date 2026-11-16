@@ -302,7 +302,8 @@ def public_card(f, tag, title, text, lang, c):
     assert y - 22 <= H - 56, (title, y)
     inner += f'<path d="M28 {H - 44} H{W - 28}" stroke="{LINE}"/>'
     inner += f'<circle cx="33" cy="{H - 22}" r="4.5" fill="{LANG[lang]}"/>' + t(44, H - 17.5, lang, 12.5, MUTED, MONO)
-    inner += t(W - 28, H - 17.5, "view repo  ↗", 12, DIM, MONO, 400, 0, "end")
+    repo = {"tsukumo": "Tsukumo", "falconia": "falconia", "reiatsu": "reiatsu-relay", "bin": "bin-app"}[f]
+    inner += t(W - 28, H - 17.5, f"github.com/clackes/{repo}", 12, DIM, MONO, 400, 0, "end")
     inner += f'<g transform="translate({W - 60},24)">{glyph(f, c)}</g>'
     svg(f"{f}.svg", W, H, card(0, 0, W, H, inner, c), f"{title}: {text}")
 
