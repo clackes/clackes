@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 40" width="133" height="40" role="img" aria-label="LinkedIn"><title>LinkedIn</title><defs>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#e4e4e7"/><stop offset=".5" stop-color="#e4e4e7"/>
+  <stop offset=".8" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
+</linearGradient>
+<radialGradient id="auraV"><stop offset="0" stop-color="#a78bfa" stop-opacity=".24"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraM"><stop offset="0" stop-color="#e879f9" stop-opacity=".15"/><stop offset="1" stop-color="#e879f9" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraG"><stop offset="0" stop-color="#3ecf8e" stop-opacity=".13"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraB"><stop offset="0" stop-color="#3b82f6" stop-opacity=".14"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a78bfa"/><stop offset=".5" stop-color="#3b82f6" stop-opacity=".8"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</linearGradient>
+</defs><rect x=".5" y=".5" width="132" height="39" rx="20" fill="#121216" stroke="#27272a"/><g transform="translate(16,10)"><rect x="1" y="1" width="18" height="18" rx="4" fill="#3b82f6"/><rect x="4.6" y="8" width="2.6" height="7.6" fill="#fff"/><circle cx="5.9" cy="5.2" r="1.5" fill="#fff"/><path d="M9.4 8h2.5v1.1c.5-.8 1.4-1.3 2.6-1.3 2 0 2.8 1.3 2.8 3.4v4.4h-2.6v-3.9c0-1-.3-1.7-1.3-1.7s-1.5.7-1.5 1.7v3.9H9.4z" fill="#fff"/></g><text x="44" y="25" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e4e4e7" letter-spacing="0" text-anchor="start">LinkedIn</text></svg>

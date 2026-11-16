@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="Under the hood"><title>Under the hood</title><defs>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#e4e4e7"/><stop offset=".5" stop-color="#e4e4e7"/>
+  <stop offset=".8" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
+</linearGradient>
+<radialGradient id="auraV"><stop offset="0" stop-color="#a78bfa" stop-opacity=".24"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraM"><stop offset="0" stop-color="#e879f9" stop-opacity=".15"/><stop offset="1" stop-color="#e879f9" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraG"><stop offset="0" stop-color="#3ecf8e" stop-opacity=".13"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></radialGradient>
+<radialGradient id="auraB"><stop offset="0" stop-color="#3b82f6" stop-opacity=".14"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a78bfa"/><stop offset=".5" stop-color="#3b82f6" stop-opacity=".8"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</linearGradient>
+</defs><text x="0" y="30" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="500" fill="#d6a64f" letter-spacing="1" text-anchor="start">02</text><text x="36" y="31" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2328" letter-spacing="-0.4" text-anchor="start">Under the hood</text><text x="1000" y="30" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="400" fill="#6e7781" letter-spacing="1.5" text-anchor="end">/ learned in private repos</text><path d="M0 50.5 H1000" stroke="#d0d7de"/><path d="M0 50.5 H260" stroke="url(#rule)" stroke-width="1.5"/></svg>
